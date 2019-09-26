@@ -1,2 +1,0 @@
-expamles
-flask_curd_db
